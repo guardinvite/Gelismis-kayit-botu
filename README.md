@@ -4,7 +4,7 @@
 
 # **Yapılması Gerekenler & Kurulum**
 
-**`npm install` Ve, `settings.json`,`ayarlar.json` Klasörün De Ki İstenilen Yerleri Doldurmak, Sonrasın Da `baslat.bat`'I Açıp Botun Açılmasını Beklemek.**
+**Terminal'e `npm install` Yazdıktan Sonra, `settings.json`,`ayarlar.json` Klasörün De Ki İstenilen Yerleri Doldurmak, Sonrasın Da `baslat.bat`'I Açıp Botun Açılmasını Beklemek.**
 
 # Görseller:
  <img src="https://cdn.discordapp.com/attachments/818473771500306454/829442693792268318/unknown.png">
