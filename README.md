@@ -1,6 +1,6 @@
 # **Ufak Bilgi**
 
-**Selamlar Ben Kinocshi `Caner` Bu Gün Basit Ve Kolay Kurulumlu Projemi Paylaşıcam Biraz Yordu 4 Saatlik Emek Var İşin Ucunda :D**
+**Selamlar Ben Kinocshi `Caner` Bu Gün Basit Ve Kolay Kurulumlu Projemi Paylaşıyorum, Biraz Yordu 4 Saatlik Emek Var İşin Ucunda :D**
 
 # **Yapılması Gerekenler & Kurulum**
 
